@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+front-end developer with over five years of experience building websites from various industries, including agriculture, health, and tech. I am skilled in a range of languages (HTML, SCSS, JavaScript), frameworks (Tailwind CSS, Bootstrap), CMS systems (HubSpot CMS), and libraries (jQuery). my primary goal on any project is to create a nice and meaningful UX for real word users. I believes in failing fast and fixing fast and last but not least Console errors make me happy :D
+
 <!--
 **jaydipjsuvagiya/jaydipjsuvagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
