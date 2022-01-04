@@ -2,9 +2,11 @@
 
 I am a self taught Frontend Developer. my primary goal on any project is to create a nice and meaningful UX for real word users. I believes in failing fast and fixing fast. last but not least Console errors make me happy :D
 
-currently looking forwards to contribute to open source projects to giving back to the community.
+I spend most of my time in making stuff using Html, Css and JS.
 
-would like to know about me more? reach out to me via [twitter](https://twitter.com/jaydipjsuvagiya), [linkedin](https://www.linkedin.com/in/jaydipjsuvagiya/)
+Currently looking forwards to contribute to open source projects to giving back to the community.
+
+Would like to know about me more? reach out to me via [twitter](https://twitter.com/jaydipjsuvagiya), [linkedin](https://www.linkedin.com/in/jaydipjsuvagiya/)
 
 <!--
 **jaydipjsuvagiya/jaydipjsuvagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
