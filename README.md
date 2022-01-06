@@ -4,7 +4,9 @@ I am a self taught Frontend Developer. my primary goal on any project is to crea
 
 I spend most of my time in making stuff using Html, Css and JS.
 
-Currently looking forwards to contribute to open source projects to giving back to the community. I already created a local community of frontend developers around my city to build a nice base for developers to help each other. 
+Currently looking forwards to contribute to open source projects to giving back to the community. I already created a local community of frontend developers around my city to build a nice base for developers to help each other.
+
+failing fast and fixing fast and result over reasons is my main quality.
 
 Would like to know about me more? reach out to me via [twitter](https://twitter.com/jaydipjsuvagiya), [linkedin](https://www.linkedin.com/in/jaydipjsuvagiya/)
 
